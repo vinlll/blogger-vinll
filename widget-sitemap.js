@@ -1,3 +1,4 @@
+/*
 var toc_config = {
 	url: 'http://arlinadesign.blogspot.com',
 	containerId: 'table-of-content',
